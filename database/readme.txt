@@ -1,0 +1,1 @@
+These files are downloaded from Phpmyadmin as SQL files.
